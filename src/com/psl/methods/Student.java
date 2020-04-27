@@ -71,7 +71,7 @@ public class Student {
 		//boolean value=s1.getWeight();
 		s1.daysOff(1,2,3,4); //these are method 'ARGUMENTS'
 		
-		System.out.println("end");
+		System.out.println("end of file");
 		
 	}
 	
