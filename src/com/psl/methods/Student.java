@@ -69,7 +69,7 @@ public class Student {
 		
 		//but not into types that are non compatible
 		//boolean value=s1.getWeight();
-		s1.daysOff(1,2,3,4); //these are method 'ARGUMENTS'
+		s1.daysOff(1,2,3,4); //these are method 'ARGUMENTS' for varargs
 		
 		System.out.println("end of file");
 		
