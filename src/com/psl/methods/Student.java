@@ -6,7 +6,7 @@ public class Student {
 	private int id;  //added an id 
 	private String name;
 	
-	private double weight;
+	private double weight;//added a variable for weight
 
 	public double getWeight() {  //double as retrun type
 		return weight; 
