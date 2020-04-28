@@ -67,8 +67,8 @@ public class Student {
 		//solution you can typecast but only to compatible types
 		int w1=(int)s1.getWeight();  //you can just store the value w/o using it no CE
 		
-		System.out.println(w1);
-	
+	System.out.println("weight is "+w1);
+		
 		//but not into types that are non compatible
 		//boolean value=s1.getWeight();
 		s1.daysOff(1,2,3,4); //these are method 'ARGUMENTS' for varargs
