@@ -3,7 +3,7 @@ package com.psl.methods;
 public class Student {
 
 	
-	
+	private int id;
 	private String name;
 	
 	private double weight;
